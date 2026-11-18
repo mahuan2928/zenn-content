@@ -1,0 +1,22 @@
+title: SQLアンチパターン100＋改善クエリ例集 ― 悪い例・改善例で学ぶ現場のSQL改善リファレンス
+summary: 現場でよく見かけるSQLのアンチパターンを全100件、悪い例と改善例のペアで整理した実務リファレンスです。SELECTの書き方、WHEREの絞り込み、JOIN、インデックス、集計、トランザクション、テーブル設計まで、一貫したECサイトのスキーマで解説。遅い・壊れる・読みにくいSQLの「書き方のクセ」を直し、巻末チェックリストでコードレビューにも活用できます。
+topics:
+  - sql
+  - mysql
+  - postgresql
+  - database
+published: true
+price: 3000
+chapters:
+  - 00-intro
+  - 01-select
+  - 02-where
+  - 03-join
+  - 04-index
+  - 05-groupby
+  - 06-subquery
+  - 07-dml
+  - 08-transaction
+  - 09-table-design
+  - 10-null-types-dates
+  - 11-checklist
